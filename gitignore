@@ -1,0 +1,51 @@
+
+# 유니티 기본 무시 목록
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# 유니티 빌드 관련 무시
+*.apk
+*.aab
+*.unitypackage
+
+# 사용자/플랫폼 설정
+*.sln
+*.csproj
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DS_Store
+*.apk
+*.aab
+
+# VS Code
+.vscode/
+
+# Mac 관련
+.DS_Store
+._*
+
+# Windows 관련
+Thumbs.db
+Desktop.ini
+
+# Git 관련
+.git/
+.gitignore
+
+# 기타 유니티 확장 패키지 캐시
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Rider / JetBrains 관련
+.idea/
+*.sln.iml
